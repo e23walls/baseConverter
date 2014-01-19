@@ -1,0 +1,13 @@
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\bin\Debug\baseConverter.exe
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\bin\Debug\baseConverter.pdb
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\obj\x86\Debug\MainWindow.baml
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\obj\x86\Debug\App.g.cs
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\obj\x86\Debug\baseConverter_MarkupCompile.cache
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\obj\x86\Debug\baseConverter.g.resources
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\obj\x86\Debug\baseConverter.Properties.Resources.resources
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\obj\x86\Debug\baseConverter.exe
+C:\Users\lauriecarroll-walls\Desktop\baseConverter\baseConverter\obj\x86\Debug\baseConverter.pdb
